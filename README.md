@@ -35,7 +35,7 @@ The spreadsheet includes user guidance stages grouping fifteen columns. These us
 
 **Publication Metadata (Columns P - R)**: Details further documentation into each source that was extracted to collect each feature and measure.
 
-  17. Title
+  17. Title (Note its hyperlink to the article itself)
   18. Year
   19. Key Contributions 
 
