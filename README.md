@@ -1,4 +1,4 @@
-# Measuring-What-Matters-Connecting-AI-ethics-evaluations-to-system-attributes-hazards-and-harms
+# Dataset Information and Interactive Visualization Link
 
 Currently, this work is on Version 1.0 of the publicly shared dataset and corresponding visualization. The dataset is in a Microsoft Excel (.xslx) format. Note that it is not recommended to open the file in a .csv format due to the increased likelihood of corrupted characters and file formatting. Please read the below sections for more information on the dataset.
 
