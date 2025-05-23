@@ -13,7 +13,7 @@ The spreadsheet includes user guidance stages grouping fifteen columns. These us
 **Entry Points (Columns C and D)**: The primary features in narrowing down potential measures for an algorithmic system.
   
   3. Principle
-  4. Component of the ML System
+  4. ML System Component 
 
 **Connections to Harm (Columns E - H)**: Investigating the identification and relations to harm, hazards, and attributes.
   
