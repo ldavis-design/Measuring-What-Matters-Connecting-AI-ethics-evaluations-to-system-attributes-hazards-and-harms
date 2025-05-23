@@ -3,7 +3,7 @@
 Currently, this work is on Version 1.0 of the publicly shared dataset and corresponding visualization. It is named "RAI_Measures_Dataset.xlsx". The dataset is in a Microsoft Excel (.xslx) format. Note that it is not recommended to open the file in a .csv format due to the increased likelihood of corrupted characters and file formatting. Please read the below sections for more information on the dataset.
 
 ## Using the Dataset
-The spreadsheet includes user guidance stages grouping fifteen columns. These user guidance stages intentionally divide and describe the data columns among similarities that they share. The interactive Sunburst visualization can be found here: **https://RAI-Measures.onrender.com**. 
+The spreadsheet includes user guidance stages grouping eighteen columns. These user guidance stages intentionally divide and describe the data columns among similarities that they share. The interactive Sunburst visualization can be found here: **https://RAI-Measures.onrender.com**. 
 
 **Target Output (Columns A and B)**: The resulting measures collected in this dataset.
   
