@@ -10,8 +10,7 @@ dropped_df = pd.read_excel("RAI_Measures_Dataset.xlsx")
 dropped_df.columns = dropped_df.iloc[0]  # Use second row as column names
 dropped_df = dropped_df.iloc[1:]  # Drop first two rows
 
-# Extract hyperlinks from Title using openpyxl
-wb = load_workbook("Measuring What Matters Dataset.xlsx", data_only=True)
+wb = load_workbook("RAI_Measures_Dataset.xlsx", data_only=True)
 ws = wb.active
 
 link_map = {}
