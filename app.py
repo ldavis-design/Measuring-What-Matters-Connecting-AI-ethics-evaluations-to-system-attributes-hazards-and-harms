@@ -177,6 +177,8 @@ def display_click_data(clickData):
         )
 
 # Run app
+server = app.server
+
 if __name__ == '__main__':
     port = int(os.environ.get("PORT", 8051))  # Default to port 8051
     app.run(host="0.0.0.0", port=port, debug=True)
