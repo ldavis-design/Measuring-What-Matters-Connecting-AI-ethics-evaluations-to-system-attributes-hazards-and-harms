@@ -1,9 +1,9 @@
 # Dataset Information and Interactive Visualization Link
 
-Currently, this work is on Version 1.0 of the publicly shared dataset and corresponding visualization. The dataset is in a Microsoft Excel (.xslx) format. Note that it is not recommended to open the file in a .csv format due to the increased likelihood of corrupted characters and file formatting. Please read the below sections for more information on the dataset.
+Currently, this work is on Version 1.0 of the publicly shared dataset and corresponding visualization. It is named "RAI_Measures_Dataset.xlsx". The dataset is in a Microsoft Excel (.xslx) format. Note that it is not recommended to open the file in a .csv format due to the increased likelihood of corrupted characters and file formatting. Please read the below sections for more information on the dataset.
 
 ## Using the Dataset
-The spreadsheet includes user guidance stages grouping fifteen columns. These user guidance stages intentionally divide and describe the data columns among similarities that they share. The interactive Sunburst visualization can be found here: **https://rai-measures-dataset.onrender.com**. 
+The spreadsheet includes user guidance stages grouping fifteen columns. These user guidance stages intentionally divide and describe the data columns among similarities that they share. The interactive Sunburst visualization can be found here: **https://RAI-Measures.onrender.com**. 
 
 **Target Output (Columns A and B)**: The resulting measures collected in this dataset.
   
@@ -42,4 +42,4 @@ The spreadsheet includes user guidance stages grouping fifteen columns. These us
   18. Key Contributions 
 
 ## Using the Interactive Visualization
-This dataset has a corresponding visualization that can be dynamically interacted with. It can be found as the "Sunburst_Visualization_Link.md" file in this repository.
+This dataset has a corresponding visualization that can be dynamically interacted with. It can be found as the "Interactive_Visualization_Link.md" file in this repository.
